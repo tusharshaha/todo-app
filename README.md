@@ -2,3 +2,5 @@
 
 user can add a task and remove a task in this project. this is my typescript practice project with react.
 
+*Technology Used: React, Typescript, Chakra UI
+
